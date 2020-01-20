@@ -1,0 +1,9 @@
+{
+  "name": "rxjs-6-opeartors",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "rxjs": "^6.4.0",
+    "rxjs-serializable-subscription": "^0.1.1"
+  }
+}
